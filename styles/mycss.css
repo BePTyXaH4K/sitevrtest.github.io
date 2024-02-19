@@ -1,0 +1,40 @@
+@import url(https://fonts.googleapis.com/css?family=Michroma&display=swap);
+
+body {
+    font-family: Michroma, serif;
+    background: linear-gradient(104deg, #26154c 0%, #ffffff 100%);
+}
+
+.nav-link {
+    color: aquamarine;
+}
+
+.navbar-nav .nav-link.active {
+    color: aquamarine;
+}
+
+.navbar-brand img {
+    width: 40px;
+}
+
+.navbar-toggler {
+    background-color: rgb(202, 202, 202);
+}
+
+.sidebar {
+    color: rgb(0, 0, 0);
+    background: linear-gradient(270deg, #f56ba5 0%, #ffffff 100%);
+}
+
+.card {
+    background: linear-gradient(270deg, #f56ba5 0%, #ffffff 100%);
+}
+
+.footer-text {
+    color: #ffffff;
+    margin: auto auto;
+}
+
+footer {
+    background: linear-gradient(270deg, #26154c 0%, #ffffff 100%);
+}
